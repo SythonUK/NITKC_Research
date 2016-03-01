@@ -16,4 +16,5 @@ CaboCha
 lxml  
 
 # 使い方
+![main window](app.png)
 起動: python MainApp.py  
