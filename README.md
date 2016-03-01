@@ -17,6 +17,7 @@ CaboCha
 lxml  
 
 # 使い方
+
 ## 起動～分類まで
 1. 端末上で python MainApp.py により起動します.  
 ![MainWindow](app.png "起動直後のメイン画面")  
@@ -27,6 +28,7 @@ lxml
 ・"both" → 歌詞情報/コード進行情報の両方を利用  
 4. "number of clusters" 右テキストボックスから分類クラスタ数を指定します.  
 5. "start" で分類開始です.  
+
 ## 分類結果確認  
 
 ![Res1](res1.png "分類結果の確認")  
