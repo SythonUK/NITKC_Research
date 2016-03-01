@@ -8,7 +8,7 @@ from lxml import etree
 import numpy as np
 
 # Š´îŒê«‘‚ğ“Ç‚İ‚Ş
-dictfile = 'resources/result.xml'
+dictfile = 'resources/a_dict.xml'
 
 parser = etree.XMLParser(encoding='shift-jis')
 tree = etree.parse(dictfile, parser)
