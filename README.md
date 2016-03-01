@@ -20,7 +20,7 @@ lxml
 1. 起動 → python MainApp.py  
 ![MainWindow](app.png "起動直後のメイン画面")  
 2. フォルダー選択 → "open folder"  
-3. 分類モード選択 →   
+3. 分類モード選択:   
 ・"only lyrics" → 歌詞情報のみ  
 ・"only chords" → コード進行情報のみ  
 ・"both" → 両方  
