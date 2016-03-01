@@ -18,7 +18,7 @@ lxml
 # 使い方
 ## 起動～分類まで
 1. 起動 → python MainApp.py  
-![Main Window](app.png)  
+![起動直後メイン画面](app.png)  
 2. フォルダー選択 → "open folder"  
 3. 分類モード選択 →   
 ・"only lyrics" → 歌詞情報のみ  
@@ -27,3 +27,4 @@ lxml
 4. 分類クラスタ数設定 → "number of clusters" 右テキストボックス  
 5. 分類開始　→ "start"  
 ## 分類結果確認
+![分類結果]
