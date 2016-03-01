@@ -1,7 +1,7 @@
 # NITKC_Research
 釧路高専専攻科 特別研究2
 
-# Requirements Modules  
+# 依存モジュール
 BeautifulSoup4  
 scipy  
 sklearn  
@@ -14,3 +14,6 @@ pandas
 MeCab  
 CaboCha  
 lxml  
+
+# 使い方
+起動: python MainApp.py  
