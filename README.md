@@ -16,4 +16,15 @@ CaboCha
 lxml  
 
 # 使い方
-起動: python MainApp.py  
+## 起動～分類まで
+1. 起動 → python MainApp.py  
+![MainWindow](app.png "起動直後のメイン画面")  
+2. フォルダー選択 → "open folder"  
+3. 分類モード選択:   
+・"only lyrics" → 歌詞情報のみ  
+・"only chords" → コード進行情報のみ  
+・"both" → 両方  
+4. 分類クラスタ数設定 → "number of clusters" 右テキストボックス  
+5. 分類開始　→ "start"  
+## 分類結果確認
+![分類結果]
