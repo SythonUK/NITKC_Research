@@ -18,7 +18,7 @@ lxml
 # 使い方
 ## 起動～分類まで
 1. 起動 → python MainApp.py  
-![起動直後メイン画面](app.png "起動直後のメイン画面")  
+![MainWindow](app.png "起動直後のメイン画面")  
 2. フォルダー選択 → "open folder"  
 3. 分類モード選択 →   
 ・"only lyrics" → 歌詞情報のみ  
